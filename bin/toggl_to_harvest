@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'toggl_to_harvest'
+TogglToHarvest::Script.start(ARGV)
